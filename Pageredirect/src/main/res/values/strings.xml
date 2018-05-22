@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">PageRedirect</string>
+    <string name="name">In Java, constructor is a block of codes similar to method. It is called when an instance of object is created and memory is allocated for the object.</string>
+</resources>
